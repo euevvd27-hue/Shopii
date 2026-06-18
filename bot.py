@@ -54,8 +54,8 @@ STRIPE5_MASS_LIMIT = 100             # /tst
 MAX_SITES_PER_UPLOAD = 150   # Maximum sites added per /tas command
 
 # Shopify APIs
-PROXY_API_URL = 'http://62.72.20.10:8081/'
-PROXYLESS_API_1 = 'https://web-production-a8008.up.railway.app/shopify'
+PROXY_API_URL = 'http://76.13.78.203:5000/shopify'
+PROXYLESS_API_1 = 'http://76.13.78.203:5000/shopify'
 PROXYLESS_API_2 = 'https://web-production-9db0.up.railway.app/shopify'
 PROXYLESS_SITES = [
     'https://touch-of-finland.myshopify.com',
